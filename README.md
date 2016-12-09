@@ -1,2 +1,2 @@
 
-<center><font size="40"><b>bOMbANfAll.com</b></font></center>
+<h1><b>bOMbANfAll.com</b></h1>
